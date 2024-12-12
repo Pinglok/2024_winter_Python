@@ -29,3 +29,4 @@ if __name__ =="__main__":
     print("ABC")
 else:
     print("ABC",__name__)
+print('結束')
